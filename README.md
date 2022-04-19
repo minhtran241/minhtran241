@@ -12,13 +12,13 @@ I'm Minh Tran. <img src="Hi.gif" width="20"> </h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; Learning Node.js, Express.js and MongoDB
-- 🤔 &nbsp; Exploring new technologies
-- 🎓 &nbsp; Study aboard CS major
+- 🔭 &nbsp; Learning Node.js, Express.js and MongoDB.
+- 🤔 &nbsp; Exploring new technologies.
+- 🎓 &nbsp; Study aboard CS major.
 - 💼 &nbsp; GVSU Student IT techinician.
 - 🌱 &nbsp; Fullstack & AI Enthusiast.
 - ✍️ &nbsp; Coding and enjoying learning networking.
-- ☕ &nbsp; `mood == 'boosted' if Jasmine Milk Tea == 'perfectly make' else '!boosted'`
+- ☕ &nbsp; `mood == 'boosted' if Jasmine Milk Tea == 'perfectly make' else '!boosted'.`
 
 <br>
 
