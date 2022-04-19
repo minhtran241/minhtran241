@@ -18,18 +18,23 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; JavaScript | Python | Java | Golang | HTML | CSS | Bash
-- 🌐 &nbsp; Node.js | Express.js | Flask | React
-- 🛢 &nbsp; PostgreSQL | MongoDB
-- 🔧 &nbsp; Visual Studio Code | Intellij | Git
+- 💻 &nbsp; ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=Flat&logo=java&logoColor=white) | Golang ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
+- 🌐 &nbsp; ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+- 🛢 &nbsp; ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+- 🔧 &nbsp; ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white) ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
 
-<br>
+<h3>👀 Visitor</h3>
 
-![Minh Tran's GitHub stats](https://github-readme-stats-zeta-amber.vercel.app/api?username=minhtran241&show_icons=true&theme=nord&count_private=true)
+<ul>
+<li><img align=""  src="https://komarev.com/ghpvc/?username=minhtran241&color=blue"></li>
+</ul>
+
+<h3>📊  My Github Stats</h3>
 
 [![Top Langs](https://github-readme-stats-zeta-amber.vercel.app/api/top-langs/?username=minhtran241&langs_count=10&show_icons=true&theme=nord&count_private=true&layout=compact)](https://github.com/minhtran241/github-readme-stats)
 
-<br>
+![Minh Tran's GitHub stats](https://github-readme-stats-zeta-amber.vercel.app/api?username=minhtran241&show_icons=true&theme=nord&count_private=true)
+
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
@@ -45,4 +50,3 @@
 <br>
 
 <img align=""  src="https://komarev.com/ghpvc/?username=minhtran241&color=blue">
-
