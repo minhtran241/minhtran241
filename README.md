@@ -31,9 +31,7 @@ I'm Minh Tran. <img src="Hi.gif" width="20"> </h2>
 
 <h3>👀 Visitor</h3>
 
-<ul>
-<li><img align=""  src="https://komarev.com/ghpvc/?username=minhtran241&color=blue"></li>
-</ul>
+<img align=""  src="https://komarev.com/ghpvc/?username=minhtran241&color=blue">
 
 <h3>📊  My Github Stats</h3>
 
