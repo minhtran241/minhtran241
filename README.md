@@ -1,6 +1,8 @@
 <h2 align="center">Hello there!
 I'm Minh Tran. <img src="Hi.gif" width="20"> </h2>
-<img align ="center" src="venus.png" >
+<div align="center">
+<img src="venus.png" >
+</div>
 
 <br>
 
