@@ -31,14 +31,17 @@ I'm Minh Tran. <img src="Hi.gif" width="20"> </h2>
 
 <h3>👀 Visitor</h3>
 
-<img align=""  src="https://komarev.com/ghpvc/?username=minhtran241&color=blue">
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=minhtran241&color=blue">
+</div>
 
 <h3>📊  My Github Stats</h3>
+<div align="center">
 
 [![Top Langs](https://github-readme-stats-zeta-amber.vercel.app/api/top-langs/?username=minhtran241&langs_count=10&show_icons=true&theme=nord&count_private=true&layout=compact)](https://github.com/minhtran241/github-readme-stats)
 
 ![Minh Tran's GitHub stats](https://github-readme-stats-zeta-amber.vercel.app/api?username=minhtran241&show_icons=true&theme=nord&count_private=true)
-
+</div>
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
@@ -47,7 +50,9 @@ I'm Minh Tran. <img src="Hi.gif" width="20"> </h2>
 </p>
 
 <h3> 🐍 Eating my contribution </h3>
+<div align="center">
 
 ![snake gif](https://github.com/minhtran241/minhtran241/blob/output/github-contribution-grid-snake.svg?raw=true)
 
+  </div>
 <br>
