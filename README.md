@@ -38,10 +38,9 @@ I'm Minh Tran. <img src="Hi.gif" width="20"> </h2>
 <h3>📊  My Github Stats</h3>
 <div align="center">
 
-[![Top Langs](https://github-readme-stats-zeta-amber.vercel.app/api/top-langs/?username=minhtran241&langs_count=10&show_icons=true&theme=nord&count_private=true&layout=compact)](https://github.com/minhtran241/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhtran241&langs_count=10&theme=algolia&layout=compact)](https://github.com/minhtran241/github-readme-stats)
 
-![Minh Tran's GitHub stats](https://github-readme-stats-zeta-amber.vercel.app/api?username=minhtran241&show_icons=true&theme=nord&count_private=true)
-</div>
+![Minh's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhtran241&count_private=true&theme=algolia)
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
