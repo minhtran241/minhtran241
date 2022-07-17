@@ -12,7 +12,7 @@ I'm Minh Tran. <img src="Hi.gif" width="20"> </h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; Learning Fastify.js, Go-Gin and Flask.
+- 🔭 &nbsp; Learning Fastify.js, Flask and SQLAlchemy.
 - 🤔 &nbsp; Exploring new technologies.
 - 🎓 &nbsp; Study aboard CS major.
 - 💼 &nbsp; GVSU Student IT techinician.
