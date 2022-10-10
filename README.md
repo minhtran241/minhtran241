@@ -57,7 +57,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![JetBrain](https://img.shields.io/badge/-JetBrains-05122A?style=flat&logo=jetbrains&logoColor=007ACC)&nbsp;
+![JetBrain](https://img.shields.io/badge/-JetBrains-05122A?style=flat&logo=jetbrains)&nbsp;
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
