@@ -69,7 +69,7 @@
 <a href="mailto:trqminh24@gmail.com"><img src="https://img.shields.io/badge/-trqminh24@gmail.com-3423A6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/minh.tran____/"><img src="https://img.shields.io/badge/-minhtran-3423A6?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/minhtran.venus.dev/"><img src="https://img.shields.io/badge/-minhtran-3423A6?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-<a href="https://github.com/lia0wang"><img src="https://img.shields.io/badge/-lia0wang-3423A6?style=for-the-badge&logo=Github&logoColor=white"/></a>
+<a href="https://github.com/minhtran241"><img src="https://img.shields.io/badge/-minhtran241-3423A6?style=for-the-badge&logo=Github&logoColor=white"/></a>
 </p>
 
 <p align="center"><b>Profile Visitor Count</b></p>
