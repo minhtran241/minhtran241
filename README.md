@@ -44,7 +44,6 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql)&nbsp;
 ![Strapi](https://img.shields.io/badge/-Strapi-05122A?style=flat&logo=Strapi)&nbsp;
 ![Expo](https://img.shields.io/badge/-Expo-05122A?style=flat&logo=expo)&nbsp;
-![Socket.io](https://img.shields.io/badge/-Socket.io-05122A?style=flat&logo=Socket.io)&nbsp;
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
@@ -59,7 +58,9 @@
 ![Yarn](https://img.shields.io/badge/-Yarn-05122A?style=flat&logo=yarn)&nbsp;
 ![JWT](https://img.shields.io/badge/-JSON%20Web%20Tokens-05122A?style=flat&logo=jsonwebtokens)&nbsp;
 ![OpenSSL](https://img.shields.io/badge/-OpenSSL-05122A?style=flat&logo=openssl)&nbsp;
+![Axios](https://img.shields.io/badge/-Axios-05122A?style=flat&logo=axios)&nbsp;
 ![Lodash](https://img.shields.io/badge/-Lodash-05122A?style=flat&logo=lodash)&nbsp;
+![Socket.io](https://img.shields.io/badge/-Socket.io-05122A?style=flat&logo=Socket.io)&nbsp;
 ![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
