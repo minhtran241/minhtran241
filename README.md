@@ -67,6 +67,11 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 
+![Twilio](https://img.shields.io/badge/-Twilio-05122A?style=flat&logo=twilio)&nbsp;
+![Mailgun](https://img.shields.io/badge/-Mailgun-05122A?style=flat&logo=mailgun)&nbsp;
+![Stripe](https://img.shields.io/badge/-Stripe-05122A?style=flat&logo=stripe)&nbsp;
+![Mapbox](https://img.shields.io/badge/-Mapbox-05122A?style=flat&logo=mapbox)&nbsp;
+
 ![NGINX](https://img.shields.io/badge/-NGINX-05122A?style=flat&logo=nginx)&nbsp;
 ![Gunicorn](https://img.shields.io/badge/-Gunicorn-05122A?style=flat&logo=gunicorn)&nbsp;
 ![PM2](https://img.shields.io/badge/-PM2-05122A?style=flat&logo=pm2)&nbsp;
@@ -74,6 +79,7 @@
 ![Netlify](https://img.shields.io/badge/-Netlify-05122A?style=flat&logo=netlify)&nbsp;
 ![Render](https://img.shields.io/badge/-Render-05122A?style=flat&logo=render)&nbsp;
 
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![Shell](https://img.shields.io/badge/-Shell-05122A?style=flat&logo=shell)&nbsp;
 ![Bash](https://img.shields.io/badge/-GNU%20Bash-05122A?style=flat&logo=gnubash)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
@@ -100,4 +106,4 @@
 
 Credit: [Minh Tran](https://github.com/minhtran241)
 
-Last Edited on: 10/10/2022
+Last Edited on: 10/16/2022
