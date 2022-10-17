@@ -61,6 +61,7 @@
 ![Axios](https://img.shields.io/badge/-Axios-05122A?style=flat&logo=axios)&nbsp;
 ![Lodash](https://img.shields.io/badge/-Lodash-05122A?style=flat&logo=lodash)&nbsp;
 ![Socket.io](https://img.shields.io/badge/-Socket.io-05122A?style=flat&logo=Socket.io)&nbsp;
+![Swagger](https://img.shields.io/badge/-Swagger-05122A?style=flat&logo=swagger)&nbsp;
 ![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
