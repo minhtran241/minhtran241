@@ -6,18 +6,21 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 
-### 📈 &nbsp;Contribution Statistics
+### 📈 &nbsp;GitHub Statistics
 
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhtran241&theme=blueberry&hide_border=true&show_icons=true&langs_count=8&layout=compact&hide=css,html,pug&count_private=true"/>
+</div>
 <br/>
 <p align="left">
   <a href="https://github.com/minhtran241">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=minhtran241&show_icons=true&theme=blueberry&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=minhtran241&theme=blueberry&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=minhtran241&show_icons=true&theme=blueberry&hide_border=true&count_private=true&include_all_commits=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=minhtran241&theme=blueberry&hide_border=true&count_private=true&include_all_commits=true" />
   </a>
 </p>
 <br>
 
-[![Minh Tran' Activity Graph](https://activity-graph.herokuapp.com/graph?username=minhtran241&custom_title=Minh%20Tran's%20Contribution%20Graph&theme=nord&bg_color=242938&hide_border=true&line=7395DF&point=add7ff&color=27e8a7)](https://github.com/minhtran241)
+[![Minh Tran' Activity Graph](https://activity-graph.herokuapp.com/graph?username=minhtran241&custom_title=Minh%20Tran's%20Contribution%20Graph&bg_color=242938&hide_border=true&line=7395DF&color=82aaff&point=27e8a7&title_color=82aaff&count_private=true&include_all_commits=true)](https://github.com/minhtran241)
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
