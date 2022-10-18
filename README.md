@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Kanit&center=true&vCenter=true&duration3000&color=%2338C2FF&size=40&height=200&width=800&lines=I'm+Minh+Tran;Backend+Developer;Data+Engineer;GVSU+CIS+Student;Welcome+to+my+profile!">
+<img src="https://readme-typing-svg.herokuapp.com?font=Kanit&center=true&vCenter=true&duration3000&color=%2338C2FF&size=40&height=100&width=800&lines=I'm+Minh+Tran;Backend+Developer;Data+Engineer;GVSU+CIS+Student;Welcome+to+my+profile!">
 </p>
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -9,7 +9,7 @@
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 📈 &nbsp;GitHub Statistics
+<!-- ### 📈 &nbsp;GitHub Statistics
 
 <p align="left">
   <a href="https://github.com/minhtran241">
@@ -22,7 +22,7 @@
 [![Minh Tran' Activity Graph](https://activity-graph.herokuapp.com/graph?username=minhtran241&custom_title=Minh%20Tran's%20Contribution%20Graph&bg_color=242938&hide_border=true&line=7395DF&color=82aaff&point=27e8a7&title_color=82aaff&count_private=true&include_all_commits=true)](https://github.com/minhtran241)
 
 <p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">              -->
 <br>
 
 ### 🛠 &nbsp;Tech Stack
