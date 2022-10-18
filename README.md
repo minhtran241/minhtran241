@@ -6,6 +6,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 
+### 📊 &nbsp;GitHub Metrics
+
+![Metrics](https://metrics.lecoq.io/minhtran241?template=classic&base.indepth=true&base.hireable=true&isocalendar=1&languages=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=true&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.ignored=html%2C%20css%2Cpug&languages.limit=8&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=America%2FDetroit&config.display=columns)
+
 ### 📈 &nbsp;GitHub Statistics
 
 <div align="center">
@@ -21,8 +25,6 @@
 <br>
 
 [![Minh Tran' Activity Graph](https://activity-graph.herokuapp.com/graph?username=minhtran241&custom_title=Minh%20Tran's%20Contribution%20Graph&bg_color=242938&hide_border=true&line=7395DF&color=82aaff&point=27e8a7&title_color=82aaff&count_private=true&include_all_commits=true)](https://github.com/minhtran241)
-
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
