@@ -22,7 +22,7 @@
 
 [![Minh Tran' Activity Graph](https://activity-graph.herokuapp.com/graph?username=minhtran241&custom_title=Minh%20Tran's%20Contribution%20Graph&bg_color=242938&hide_border=true&line=7395DF&color=82aaff&point=27e8a7&title_color=82aaff&count_private=true&include_all_commits=true)](https://github.com/minhtran241)
 
-![Snake animation](https://github.com/minhtran241/minhtran241/blob/output/github-contribution-grid-snake.svg)
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
