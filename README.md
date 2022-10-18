@@ -1,14 +1,13 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&center=true&vCenter=true&duration3000&color=%2338C2FF&size=40&height=200&width=800&lines=I'm+Minh+Tran;Backend+Developer;Data+Engineer;GVSU+CIS+Student;Welcome+to+my+profile!">
 </p>
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ![Metrics](https://metrics.lecoq.io/minhtran241?template=classic&base.indepth=true&base.hireable=true&isocalendar=1&languages=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=true&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.ignored=html%2C%20css%2Cpug&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=America%2FDetroit&config.twemoji=true&config.octicon=true&config.display=large)
 
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
 ### 📈 &nbsp;GitHub Statistics
-<br/>
+
 <p align="left">
   <a href="https://github.com/minhtran241">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=minhtran241&show_icons=true&theme=blueberry&hide_border=true&count_private=true&include_all_commits=true" />
