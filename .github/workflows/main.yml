@@ -4,7 +4,7 @@ on:
     schedule: [{ cron: '0 */8 * * *' }]
     # Lines below let you run workflow manually and on each commit
     workflow_dispatch:
-    push: { branches: ['master', 'main'] }
+    push: { branches: ['output'] }
 jobs:
     github-metrics:
         runs-on: ubuntu-latest
@@ -13,6 +13,9 @@ jobs:
         steps:
             - uses: lowlighter/metrics@latest
               with:
+                  output_action: commit
+                  committer_branch: output
+                  committer_message: 'update metrics'
                   # Your GitHub token
                   # The following scopes are required:
                   #  - public_access (default scope)
