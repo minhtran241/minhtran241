@@ -30,7 +30,7 @@
 ### 🛠 &nbsp;Tech Stack
 
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go&color=EBEDF0)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&color=16572A)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&color=EBEDF0)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&color=EBEDF0)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&color=EBEDF0)&nbsp;
 
@@ -87,7 +87,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&color=EBEDF0)&nbsp;
 ![Shell](https://img.shields.io/badge/-Shell-05122A?style=flat&logo=shell&color=EBEDF0)&nbsp;
 ![Bash](https://img.shields.io/badge/-GNU%20Bash-05122A?style=flat&logo=gnubash&color=EBEDF0)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC&color=16572A)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC&color=EBEDF0)&nbsp;
 ![JetBrain](https://img.shields.io/badge/-JetBrains-05122A?style=flat&logo=jetbrains&color=16572A)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman&color=EBEDF0)&nbsp;
 
