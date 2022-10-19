@@ -3,13 +3,14 @@
 </p>
 <!-- <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" background-color="#40C463"> -->
-<hr style="width:100%;text-align:left;margin-left:0;background-color:#16572A">
+<hr style="width:100%;text-align:left;margin-left:0;">
 
 ![Metrics](https://metrics.lecoq.io/minhtran241?template=classic&base.indepth=true&base.hireable=true&isocalendar=1&languages=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=true&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.ignored=html%2C%20css%2Cpug&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=America%2FDetroit&config.twemoji=true&config.octicon=true&config.display=large)
 
 <!-- <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
-<hr style="width:100%;text-align:left;margin-left:0;background-color:#16572A">
+
+## <!-- <hr style="width:100%;text-align:left;margin-left:0;"> -->
 
 <!-- ### 📈 &nbsp;GitHub Statistics
 
@@ -25,7 +26,6 @@
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">              -->
-<br>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -93,8 +93,8 @@
 
 <!-- <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">              -->
-<hr style="width:100%;text-align:left;margin-left:0;background-color:#16572A">
-<br>
+
+## <!-- <hr style="width:100%;text-align:left;margin-left:0;"> -->
 
 ### 🔗 &nbsp;Contact Info
 
@@ -108,7 +108,7 @@
 <!-- <p align="center"><b>Profile Visitor Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7Bminhtran241%7D/count.svg" alt="visitor badge" width="30%"></p> -->
 
----
+<hr style="width:50%;text-align:left;margin-left:25%;">
 
 Credit: [Minh Tran](https://github.com/minhtran241)
 
