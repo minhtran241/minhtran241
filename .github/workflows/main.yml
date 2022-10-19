@@ -31,8 +31,10 @@ jobs:
                   template: classic
                   base: header, activity, community, repositories, metadata
                   base_hireable: yes
+                  base_indepth: yes
                   config_display: large
                   config_octicon: yes
+                  config_padding: 0, 1 + 1%
                   config_timezone: America/Detroit
                   config_twemoji: yes
                   plugin_achievements: yes
@@ -45,6 +47,7 @@ jobs:
                   plugin_languages_analysis_timeout: 15
                   plugin_languages_categories: markup, programming
                   plugin_languages_colors: github
+                  plugin_languages_details: percentage
                   plugin_languages_ignored: html,css,pug
                   plugin_languages_limit: 8
                   plugin_languages_recent_categories: markup, programming
