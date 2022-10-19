@@ -105,6 +105,8 @@
 <a href="https://github.com/minhtran241"><img src="https://img.shields.io/badge/-minhtran241-3423A6?style=for-the-badge&logo=Github&logoColor=black&color=EBEDF0"/></a>
 </p>
 
+![Snake animation](https://github.com/minhtran241/minhtran241/blob/output/github-contribution-grid-snake.svg)
+
 <!-- <p align="center"><b>Profile Visitor Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7Bminhtran241%7D/count.svg" alt="visitor badge" width="30%"></p> -->
 
