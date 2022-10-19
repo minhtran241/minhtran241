@@ -34,7 +34,7 @@ jobs:
                   base_indepth: yes
                   config_display: large
                   config_octicon: yes
-                  config_padding: 0, 1 + 1%
+                  config_padding: 0, 2 + 2%
                   config_timezone: America/Detroit
                   config_twemoji: yes
                   plugin_achievements: yes
