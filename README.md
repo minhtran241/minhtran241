@@ -10,7 +10,7 @@
 <!-- <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
-## <!-- <hr style="width:100%;text-align:left;margin-left:0;"> -->
+## <hr style="width:100%;text-align:left;margin-left:0;">
 
 <!-- ### 📈 &nbsp;GitHub Statistics
 
@@ -94,7 +94,7 @@
 <!-- <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">              -->
 
-## <!-- <hr style="width:100%;text-align:left;margin-left:0;"> -->
+## <hr style="width:100%;text-align:left;margin-left:0;">
 
 ### 🔗 &nbsp;Contact Info
 
@@ -108,7 +108,7 @@
 <!-- <p align="center"><b>Profile Visitor Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7Bminhtran241%7D/count.svg" alt="visitor badge" width="30%"></p> -->
 
-<hr style="width:50%;text-align:left;margin-left:25%;">
+---
 
 Credit: [Minh Tran](https://github.com/minhtran241)
 
