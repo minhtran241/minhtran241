@@ -100,7 +100,7 @@
 
 <p align="center">
 <a href="mailto:trqminh24@gmail.com"><img src="https://img.shields.io/badge/-trqminh24@gmail.com-3423A6?style=for-the-badge&logo=gmail&logoColor=black&color=EBEDF0"/></a>
-<a href="https://www.instagram.com/minhtran.ig/"><img src="https://img.shields.io/badge/-minhtran-3423A6?style=for-the-badge&logo=instagram&logoColor=white&color=16572A"/></a>
+<a href="https://www.instagram.com/minhtran.ig/"><img src="https://img.shields.io/badge/-minhtran.ig-3423A6?style=for-the-badge&logo=instagram&logoColor=white&color=16572A"/></a>
 <a href="https://www.facebook.com/minhtran.venus.dev/"><img src="https://img.shields.io/badge/-minhtran-3423A6?style=for-the-badge&logo=facebook&logoColor=white&color=16572A"/></a>
 <a href="https://github.com/minhtran241"><img src="https://img.shields.io/badge/-minhtran241-3423A6?style=for-the-badge&logo=Github&logoColor=black&color=EBEDF0"/></a>
 </p>
