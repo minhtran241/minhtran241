@@ -12,6 +12,15 @@
 
 <hr style="width:100%;text-align:left;margin-left:0;">
 
+### 📊 &nbsp;Coding Metrics
+
+![](https://raw.githubusercontent.com/minhtran241/minhtran241/fe1c54ea08ef0c2b83ac347edc35b6f5918e1b97/metrics.plugin.habits.charts.svg)
+![](https://raw.githubusercontent.com/minhtran241/minhtran241/fe1c54ea08ef0c2b83ac347edc35b6f5918e1b97/metrics.plugin.repositories.pinned.svg)
+![](https://raw.githubusercontent.com/minhtran241/minhtran241/fe1c54ea08ef0c2b83ac347edc35b6f5918e1b97/metrics.plugin.stargazers.svg)
+![](https://raw.githubusercontent.com/minhtran241/minhtran241/e6d4e0b9a47a389ee865a4b9cb15b275129aee6b/metrics.plugin.languages.recent.svg)
+
+<hr style="width:100%;text-align:left;margin-left:0;">
+
 <!-- ### 📈 &nbsp;GitHub Statistics
 
 <p align="left">
@@ -114,4 +123,6 @@
 
 Credit: [Minh Tran](https://github.com/minhtran241)
 
-Last Edited on: 10/18/2022
+More information: [Insights](https://metrics.lecoq.io/insights/minhtran241)
+
+Last Edited on: 10/20/2022
