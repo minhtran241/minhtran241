@@ -1,4 +1,4 @@
-name: Repositories and diff history
+name: Using classic charts
 on:
     # Schedule updates (each hour)
     schedule: [{ cron: '0 * * * *' }]
@@ -13,13 +13,7 @@ jobs:
         steps:
             - uses: lowlighter/metrics@latest
               with:
-                  output_action: commit
-                  committer_branch: output
-                  committer_message: 'update metrics'
-                  filename: metrics.plugin.lines.history.svg
+                  filename: metrics.plugin.stargazers.svg
                   token: ${{ secrets.GITHUB_TOKEN }}
                   base: ''
-                  plugin_lines: yes
-                  plugin_lines_sections: repositories, history
-                  plugin_lines_repositories_limit: 2
-                  plugin_lines_history_limit: 1
+                  plugin_stargazers: yes
