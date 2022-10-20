@@ -12,14 +12,12 @@
 
 <hr style="width:100%;text-align:left;margin-left:0;">
 
-### 📊 &nbsp;Coding Metrics
+### 📊 🛠 &nbsp;Coding Metrics and Tech Stack
 
 [<img align="left" src="https://raw.githubusercontent.com/minhtran241/minhtran241/fe1c54ea08ef0c2b83ac347edc35b6f5918e1b97/metrics.plugin.habits.charts.svg" width="46%">](https://metrics.lecoq.io/insights/minhtran241)
 [<img align="right" src="https://raw.githubusercontent.com/minhtran241/minhtran241/fe1c54ea08ef0c2b83ac347edc35b6f5918e1b97/metrics.plugin.repositories.pinned.svg" width="46%">](https://metrics.lecoq.io/insights/minhtran241)
 [<img align="left" src="https://raw.githubusercontent.com/minhtran241/minhtran241/fe1c54ea08ef0c2b83ac347edc35b6f5918e1b97/metrics.plugin.stargazers.svg" width="46%">](https://metrics.lecoq.io/insights/minhtran241)
 [<img align="right" src="https://raw.githubusercontent.com/minhtran241/minhtran241/e6d4e0b9a47a389ee865a4b9cb15b275129aee6b/metrics.plugin.languages.recent.svg" width="46%">](https://metrics.lecoq.io/insights/minhtran241)
-
-<hr style="width:100%;text-align:left;margin-left:0;">
 
 <!-- ### 📈 &nbsp;GitHub Statistics
 
@@ -35,8 +33,6 @@
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">              -->
-
-### 🛠 &nbsp;Tech Stack
 
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go&color=EBEDF0)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&color=EBEDF0)&nbsp;
@@ -105,7 +101,7 @@
 
 <hr style="width:100%;text-align:left;margin-left:0;">
 
-### 🔗 &nbsp;Contact Info
+### 🔗 📧 &nbsp;Contact Info
 
 <p align="center">
 <a href="mailto:trqminh24@gmail.com"><img src="https://img.shields.io/badge/-trqminh24@gmail.com-3423A6?style=for-the-badge&logo=gmail&logoColor=black&color=EBEDF0"/></a>
