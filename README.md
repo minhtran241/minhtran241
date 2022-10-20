@@ -14,10 +14,10 @@
 
 ### 📊 &nbsp;Coding Metrics
 
-![](https://raw.githubusercontent.com/minhtran241/minhtran241/fe1c54ea08ef0c2b83ac347edc35b6f5918e1b97/metrics.plugin.habits.charts.svg)
-![](https://raw.githubusercontent.com/minhtran241/minhtran241/fe1c54ea08ef0c2b83ac347edc35b6f5918e1b97/metrics.plugin.repositories.pinned.svg)
-![](https://raw.githubusercontent.com/minhtran241/minhtran241/fe1c54ea08ef0c2b83ac347edc35b6f5918e1b97/metrics.plugin.stargazers.svg)
-![](https://raw.githubusercontent.com/minhtran241/minhtran241/e6d4e0b9a47a389ee865a4b9cb15b275129aee6b/metrics.plugin.languages.recent.svg)
+[<img align="left" src="https://raw.githubusercontent.com/minhtran241/minhtran241/fe1c54ea08ef0c2b83ac347edc35b6f5918e1b97/metrics.plugin.habits.charts.svg" width="46%">](https://metrics.lecoq.io/insights/minhtran241)
+[<img align="right" src="https://raw.githubusercontent.com/minhtran241/minhtran241/fe1c54ea08ef0c2b83ac347edc35b6f5918e1b97/metrics.plugin.repositories.pinned.svg" width="46%">](https://metrics.lecoq.io/insights/minhtran241)
+[<img align="left" src="https://raw.githubusercontent.com/minhtran241/minhtran241/fe1c54ea08ef0c2b83ac347edc35b6f5918e1b97/metrics.plugin.stargazers.svg" width="46%">](https://metrics.lecoq.io/insights/minhtran241)
+[<img align="right" src="https://raw.githubusercontent.com/minhtran241/minhtran241/e6d4e0b9a47a389ee865a4b9cb15b275129aee6b/metrics.plugin.languages.recent.svg" width="46%">](https://metrics.lecoq.io/insights/minhtran241)
 
 <hr style="width:100%;text-align:left;margin-left:0;">
 
