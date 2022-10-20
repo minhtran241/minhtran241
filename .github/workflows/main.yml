@@ -4,7 +4,7 @@ on:
     schedule: [{ cron: '0 * * * *' }]
     # Lines below let you run workflow manually and on each commit
     workflow_dispatch:
-    push: { branches: ['main'] }
+    push: { branches: ['output'] }
 jobs:
     github-metrics:
         runs-on: ubuntu-latest
@@ -13,9 +13,9 @@ jobs:
         steps:
             - uses: lowlighter/metrics@latest
               with:
-                  #   output_action: commit
-                  #   committer_branch: output
-                  #   committer_message: 'update metrics'
+                  output_action: commit
+                  committer_branch: output
+                  committer_message: 'update metrics'
                   # Your GitHub token
                   # The following scopes are required:
                   #  - public_access (default scope)
@@ -32,9 +32,9 @@ jobs:
                   base: header, activity, community, repositories, metadata
                   base_hireable: yes
                   base_indepth: yes
-                  config_display: columns
+                  config_display: large
                   config_octicon: yes
-                  config_padding: 0, 5 + 5%
+                  config_padding: 0, 2 + 2%
                   config_timezone: America/Detroit
                   config_twemoji: yes
                   plugin_achievements: yes
@@ -58,6 +58,7 @@ jobs:
                   plugin_languages_threshold: 0%
                   plugin_notable: yes
                   plugin_notable_from: all
+                  plugin_notable_self: yes
                   plugin_notable_types: commit
 
             - uses: Platane/snk@master
