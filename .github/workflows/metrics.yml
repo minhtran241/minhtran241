@@ -1,0 +1,14 @@
+name: Metrics embed
+on:
+    # Schedule updates (each hour)
+    schedule: [{ cron: '0 * * * *' }]
+    # Lines below let you run workflow manually and on each commit
+    workflow_dispatch:
+    push: { branches: ['output'] }
+jobs:
+    github-metrics:
+        runs-on: ubuntu-latest
+        permissions:
+            contents: write
+        steps:
+            - uses: lowlighter/metrics@v3.28
