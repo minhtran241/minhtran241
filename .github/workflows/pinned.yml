@@ -1,0 +1,20 @@
+name: Pinned repositories
+on:
+    # Schedule updates (each hour)
+    schedule: [{ cron: '0 * * * *' }]
+    # Lines below let you run workflow manually and on each commit
+    workflow_dispatch:
+    push: { branches: ['output'] }
+jobs:
+    github-metrics:
+        runs-on: ubuntu-latest
+        permissions:
+            contents: write
+        steps:
+            - uses: lowlighter/metrics@latest
+              with:
+                  filename: metrics.plugin.repositories.pinned.svg
+                  token: ${{ secrets.GITHUB_TOKEN }}
+                  base: ''
+                  plugin_repositories: yes
+                  plugin_repositories_pinned: 4
