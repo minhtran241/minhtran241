@@ -1,38 +1,19 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&center=true&vCenter=true&duration3000&color=40C463&size=40&height=100&width=800&lines=I'm+Minh+Tran;Backend+Developer;Data+Engineer;GVSU+CIS+Student;Welcome+to+my+profile!">
 </p>
-<!-- <p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" background-color="#40C463"> -->
+
 <hr style="width:100%;text-align:left;margin-left:0;">
 
 ![Metrics](https://metrics.lecoq.io/minhtran241?template=classic&base.indepth=true&base.hireable=true&isocalendar=1&languages=1&achievements=1&notable=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=true&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.ignored=html%2C%20css%2C%20pug%2C%20less%2C%20dockerfile%2C%20makefile%2C%20Handlebars%2C%20Procfile%2C%20qmake%2C%20lex%2C%20cmake%2C%20shell%2C%20%20gnuplot&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.details=bytes-size%2C%20percentage&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=4&notable=false&notable.from=all&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=true&config.timezone=America%2FDetroit&config.twemoji=true&config.octicon=true&config.display=large&config.padding=0%2C%202%20%2B%202%25)
 
-<!-- <p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+## 📊&nbsp;Coding Metrics 
 
-<hr style="width:100%;text-align:left;margin-left:0;">
+[<img align="left" src="https://raw.githubusercontent.com/minhtran241/minhtran241/fe1c54ea08ef0c2b83ac347edc35b6f5918e1b97/metrics.plugin.habits.charts.svg" width="48%">](https://metrics.lecoq.io/insights/minhtran241)
+[<img align="right" src="https://raw.githubusercontent.com/minhtran241/minhtran241/fe1c54ea08ef0c2b83ac347edc35b6f5918e1b97/metrics.plugin.repositories.pinned.svg" width="48%">](https://metrics.lecoq.io/insights/minhtran241)
+[<img align="left" src="https://raw.githubusercontent.com/minhtran241/minhtran241/fe1c54ea08ef0c2b83ac347edc35b6f5918e1b97/metrics.plugin.stargazers.svg" width="48%">](https://metrics.lecoq.io/insights/minhtran241)
+[<img align="right" src="https://raw.githubusercontent.com/minhtran241/minhtran241/e6d4e0b9a47a389ee865a4b9cb15b275129aee6b/metrics.plugin.languages.recent.svg" width="48%">](https://metrics.lecoq.io/insights/minhtran241)
 
-### 📊 🛠 &nbsp;Coding Metrics and Tech Stack
-
-[<img align="left" src="https://raw.githubusercontent.com/minhtran241/minhtran241/fe1c54ea08ef0c2b83ac347edc35b6f5918e1b97/metrics.plugin.habits.charts.svg" width="46%">](https://metrics.lecoq.io/insights/minhtran241)
-[<img align="right" src="https://raw.githubusercontent.com/minhtran241/minhtran241/fe1c54ea08ef0c2b83ac347edc35b6f5918e1b97/metrics.plugin.repositories.pinned.svg" width="46%">](https://metrics.lecoq.io/insights/minhtran241)
-[<img align="left" src="https://raw.githubusercontent.com/minhtran241/minhtran241/fe1c54ea08ef0c2b83ac347edc35b6f5918e1b97/metrics.plugin.stargazers.svg" width="46%">](https://metrics.lecoq.io/insights/minhtran241)
-[<img align="right" src="https://raw.githubusercontent.com/minhtran241/minhtran241/e6d4e0b9a47a389ee865a4b9cb15b275129aee6b/metrics.plugin.languages.recent.svg" width="46%">](https://metrics.lecoq.io/insights/minhtran241)
-
-<!-- ### 📈 &nbsp;GitHub Statistics
-
-<p align="left">
-  <a href="https://github.com/minhtran241">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=minhtran241&show_icons=true&theme=blueberry&hide_border=true&count_private=true&include_all_commits=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=minhtran241&theme=blueberry&hide_border=true&count_private=true&include_all_commits=true" />
-  </a>
-</p>
-<br>
-
-[![Minh Tran' Activity Graph](https://activity-graph.herokuapp.com/graph?username=minhtran241&custom_title=Minh%20Tran's%20Contribution%20Graph&bg_color=242938&hide_border=true&line=7395DF&color=82aaff&point=27e8a7&title_color=82aaff&count_private=true&include_all_commits=true)](https://github.com/minhtran241)
-
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">              -->
+## 🛠 &nbsp;Tech Stack
 
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go&color=EBEDF0)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&color=EBEDF0)&nbsp;
@@ -96,12 +77,8 @@
 ![JetBrain](https://img.shields.io/badge/-JetBrains-05122A?style=flat&logo=jetbrains&color=16572A)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman&color=EBEDF0)&nbsp;
 
-<!-- <p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">              -->
 
-<hr style="width:100%;text-align:left;margin-left:0;">
-
-### 🔗 📧 &nbsp;Contact Info
+## 🔗 &nbsp;Contact Info
 
 <p align="center">
 <a href="mailto:trqminh24@gmail.com"><img src="https://img.shields.io/badge/-trqminh24@gmail.com-3423A6?style=for-the-badge&logo=gmail&logoColor=black&color=EBEDF0"/></a>
@@ -111,9 +88,6 @@
 </p>
 
 ![Snake animation](https://github.com/minhtran241/minhtran241/blob/output/github-contribution-grid-snake.svg)
-
-<!-- <p align="center"><b>Profile Visitor Count</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/%7Bminhtran241%7D/count.svg" alt="visitor badge" width="30%"></p> -->
 
 ---
 
