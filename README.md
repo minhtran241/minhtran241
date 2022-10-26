@@ -12,8 +12,9 @@
 </p>
 <p align="left">
   <a href="https://github.com/minhtran241">
-  <img width="49.5%" src="https://raw.githubusercontent.com/minhtran241/minhtran241/b8c3f29db0782768a80636994935d8b34d1ad0dd/metrics.plugin.languages.indepth.svg" />
   <img width="49.5%" src="https://raw.githubusercontent.com/minhtran241/minhtran241/b8c3f29db0782768a80636994935d8b34d1ad0dd/metrics.plugin.notable.svg" />
+  <img width="49.5%" src="https://raw.githubusercontent.com/minhtran241/minhtran241/9d3c918a51acce56f1503cb70e98a52aaae2a153/metrics.plugin.languages.recent.svg" />
+
   </a>
 </p>
 
@@ -21,14 +22,8 @@
 
 <p align="left">
   <a href="https://github.com/minhtran241">
-  <img width="49.5%" src="https://raw.githubusercontent.com/minhtran241/minhtran241/fe1c54ea08ef0c2b83ac347edc35b6f5918e1b97/metrics.plugin.habits.charts.svg" />
-  <img width="49.5%" src="https://raw.githubusercontent.com/minhtran241/minhtran241/fe1c54ea08ef0c2b83ac347edc35b6f5918e1b97/metrics.plugin.repositories.pinned.svg" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://github.com/minhtran241">
   <img width="49.5%" src="https://raw.githubusercontent.com/minhtran241/minhtran241/fe1c54ea08ef0c2b83ac347edc35b6f5918e1b97/metrics.plugin.stargazers.svg" />
-  <img width="49.5%" src="https://raw.githubusercontent.com/minhtran241/minhtran241/9d3c918a51acce56f1503cb70e98a52aaae2a153/metrics.plugin.languages.recent.svg" />
+  <img width="49.5%" src="https://raw.githubusercontent.com/minhtran241/minhtran241/fe1c54ea08ef0c2b83ac347edc35b6f5918e1b97/metrics.plugin.habits.charts.svg" />
   </a>
 </p>
 
