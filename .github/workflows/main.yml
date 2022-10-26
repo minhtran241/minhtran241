@@ -38,10 +38,11 @@ jobs:
                   config_timezone: America/Detroit
                   config_twemoji: yes
                   plugin_achievements: yes
-                  plugin_achievements_display: detailed
-                  plugin_achievements_limit: 4
-                  plugin_achievements_secrets: yes
-                  plugin_achievements_threshold: C
+                  plugin_achievements_only: >-
+                      polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
+                      scripter, packager, explorer, infographile, manager
+                  plugin_achievements_display: compact
+                  plugin_achievements_threshold: X
                   plugin_isocalendar: yes
                   plugin_isocalendar_duration: half-year
                   plugin_languages: yes
