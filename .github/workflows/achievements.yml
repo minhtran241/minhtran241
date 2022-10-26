@@ -16,6 +16,7 @@ jobs:
                   output_action: commit
                   committer_branch: output
                   committer_message: 'update metrics'
+                  filename: metrics.achievements.svg
                   token: ${{ secrets.GITHUB_TOKEN }}
                   plugin_achievements: yes
                   plugin_achievements_only: >-

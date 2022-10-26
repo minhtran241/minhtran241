@@ -28,7 +28,7 @@
 <p align="left">
   <a href="https://github.com/minhtran241">
   <img width="49.5%" src="https://raw.githubusercontent.com/minhtran241/minhtran241/fe1c54ea08ef0c2b83ac347edc35b6f5918e1b97/metrics.plugin.stargazers.svg" />
-  <img width="49.5%" src="https://raw.githubusercontent.com/minhtran241/minhtran241/e6d4e0b9a47a389ee865a4b9cb15b275129aee6b/metrics.plugin.languages.recent.svg" />
+  <img width="49.5%" src="https://raw.githubusercontent.com/minhtran241/minhtran241/9d3c918a51acce56f1503cb70e98a52aaae2a153/metrics.plugin.languages.recent.svg" />
   </a>
 </p>
 
