@@ -16,18 +16,12 @@ jobs:
                   output_action: commit
                   committer_branch: output
                   committer_message: 'update metrics'
-                  filename: metrics.plugin.languages.details.svg
+                  filename: metrics.plugin.languages.indepth.svg
                   token: ${{ secrets.GITHUB_TOKEN }}
+                  plugin_languages_ignored: html, css, pug, less, dockerfile, makefile, Handlebars, Procfile, qmake, lex, cmake, shell,  gnuplot
                   base: ''
                   plugin_languages: yes
-                  plugin_languages_details: bytes-size, percentage
-                  plugin_languages_limit: 10
+                  plugin_languages_indepth: yes
+                  plugin_languages_details: lines, bytes-size
+                  plugin_languages_limit: 4
                   plugin_languages_analysis_timeout: 15
-                  plugin_languages_categories: markup, programming
-                  plugin_languages_colors: github
-                  plugin_languages_ignored: html, css, pug, less, dockerfile, makefile, Handlebars, Procfile, qmake, lex, cmake, shell,  gnuplot
-                  plugin_languages_recent_categories: markup, programming
-                  plugin_languages_recent_days: 14
-                  plugin_languages_recent_load: 300
-                  plugin_languages_sections: most-used
-                  plugin_languages_threshold: 0%
