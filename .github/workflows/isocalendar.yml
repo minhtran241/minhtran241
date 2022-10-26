@@ -1,4 +1,4 @@
-name: Metrics embed
+name: isocalendar
 on:
     # Schedule updates (each hour)
     schedule: [{ cron: '0 * * * *' }]
