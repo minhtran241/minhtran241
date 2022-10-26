@@ -18,12 +18,10 @@
   </a>
 </p>
 
-## 👨🏻‍💻&nbsp;Coding Metrics
-
 <p align="left">
   <a href="https://github.com/minhtran241">
-  <img width="49.5%" src="https://raw.githubusercontent.com/minhtran241/minhtran241/fe1c54ea08ef0c2b83ac347edc35b6f5918e1b97/metrics.plugin.stargazers.svg" />
-  <img width="49.5%" src="https://raw.githubusercontent.com/minhtran241/minhtran241/fe1c54ea08ef0c2b83ac347edc35b6f5918e1b97/metrics.plugin.habits.charts.svg" />
+  <img width="49.5%" src="https://raw.githubusercontent.com/minhtran241/minhtran241/61cc50d5745e97394888157794d5787961cc4ff7/metrics.plugin.repositories.pinned.svg" />
+  <img width="49.5%" src="https://raw.githubusercontent.com/minhtran241/minhtran241/61cc50d5745e97394888157794d5787961cc4ff7/metrics.plugin.habits.charts.svg" />
   </a>
 </p>
 
