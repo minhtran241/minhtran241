@@ -17,6 +17,21 @@
   </a>
 </p>
 
+## 👨🏻‍💻&nbsp;Coding Metrics
+
+<p align="left">
+  <a href="https://github.com/minhtran241">
+  <img width="49.5%" src="https://raw.githubusercontent.com/minhtran241/minhtran241/fe1c54ea08ef0c2b83ac347edc35b6f5918e1b97/metrics.plugin.habits.charts.svg" />
+  <img width="49.5%" src="https://raw.githubusercontent.com/minhtran241/minhtran241/fe1c54ea08ef0c2b83ac347edc35b6f5918e1b97/metrics.plugin.repositories.pinned.svg" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://github.com/minhtran241">
+  <img width="49.5%" src="https://raw.githubusercontent.com/minhtran241/minhtran241/fe1c54ea08ef0c2b83ac347edc35b6f5918e1b97/metrics.plugin.stargazers.svg" />
+  <img width="49.5%" src="https://raw.githubusercontent.com/minhtran241/minhtran241/e6d4e0b9a47a389ee865a4b9cb15b275129aee6b/metrics.plugin.languages.recent.svg" />
+  </a>
+</p>
+
 ## 🛠 &nbsp;Tech Stack
 
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go&color=EBEDF0)&nbsp;
@@ -81,21 +96,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC&color=EBEDF0)&nbsp;
 ![JetBrain](https://img.shields.io/badge/-JetBrains-05122A?style=flat&logo=jetbrains&color=16572A)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman&color=EBEDF0)&nbsp;
-
-## 👨🏻‍💻&nbsp;Coding Metrics
-
-<p align="left">
-  <a href="https://github.com/minhtran241">
-  <img width="49.5%" src="https://raw.githubusercontent.com/minhtran241/minhtran241/fe1c54ea08ef0c2b83ac347edc35b6f5918e1b97/metrics.plugin.habits.charts.svg" />
-  <img width="49.5%" src="https://raw.githubusercontent.com/minhtran241/minhtran241/fe1c54ea08ef0c2b83ac347edc35b6f5918e1b97/metrics.plugin.repositories.pinned.svg" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://github.com/minhtran241">
-  <img width="49.5%" src="https://raw.githubusercontent.com/minhtran241/minhtran241/fe1c54ea08ef0c2b83ac347edc35b6f5918e1b97/metrics.plugin.stargazers.svg" />
-  <img width="49.5%" src="https://raw.githubusercontent.com/minhtran241/minhtran241/e6d4e0b9a47a389ee865a4b9cb15b275129aee6b/metrics.plugin.languages.recent.svg" />
-  </a>
-</p>
 
 ## 🔗 &nbsp;Contact Info
 
