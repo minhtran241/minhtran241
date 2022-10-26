@@ -1,4 +1,4 @@
-name: Labels
+name: History
 on:
     # Schedule updates (each hour)
     schedule: [{ cron: '0 * * * *' }]
@@ -16,8 +16,10 @@ jobs:
                   output_action: commit
                   committer_branch: output
                   committer_message: 'update metrics'
-                  filename: metrics.plugin.topics.svg
+                  filename: metrics.plugin.lines.history.svg
                   token: ${{ secrets.GITHUB_TOKEN }}
                   base: ''
-                  plugin_topics: yes
-                  plugin_topics_limit: 12
+                  plugin_lines: yes
+                  plugin_lines_sections: repositories, history
+                  plugin_lines_repositories_limit: 2
+                  plugin_lines_history_limit: 1
