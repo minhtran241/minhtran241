@@ -1,4 +1,4 @@
-name: Metrics embed
+name: Notable
 on:
     # Schedule updates (each hour)
     schedule: [{ cron: '0 * * * *' }]
@@ -16,12 +16,7 @@ jobs:
                   output_action: commit
                   committer_branch: output
                   committer_message: 'update metrics'
-                  # Your GitHub token
-                  # The following scopes are required:
-                  #  - public_access (default scope)
-                  # The following additional scopes may be required:
-                  #  - read:org      (for organization related metrics)
-                  #  - read:user     (for user related data)
-                  #  - read:packages (for some packages related data)
-                  #  - repo          (optional, if you want to include private repositories)
+                  filename: metrics.plugin.notable.svg
                   token: ${{ secrets.GITHUB_TOKEN }}
+                  base: ''
+                  plugin_notable: yes
