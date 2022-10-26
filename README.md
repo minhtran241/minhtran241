@@ -6,22 +6,23 @@
 
 <p align="left">
   <a href="https://github.com/minhtran241">
-  <img width="49.5%" src="https://raw.githubusercontent.com/minhtran241/minhtran241/b8c3f29db0782768a80636994935d8b34d1ad0dd/metrics.classic.svg" />
-  <img width="49.5%" src="https://raw.githubusercontent.com/minhtran241/minhtran241/b8c3f29db0782768a80636994935d8b34d1ad0dd/metrics.plugin.isocalendar.halfyear.svg" />
+
+  <img width="49.5%" src="https://github.com/minhtran241/minhtran241/blob/output/metrics.classic.svg" />
+  <img width="49.5%" src="https://github.com/minhtran241/minhtran241/blob/output/metrics.plugin.isocalendar.halfyear.svg" />
   </a>
 </p>
 <p align="left">
   <a href="https://github.com/minhtran241">
-  <img width="49.5%" src="https://raw.githubusercontent.com/minhtran241/minhtran241/b8c3f29db0782768a80636994935d8b34d1ad0dd/metrics.plugin.notable.svg" />
-  <img width="49.5%" src="https://raw.githubusercontent.com/minhtran241/minhtran241/9d3c918a51acce56f1503cb70e98a52aaae2a153/metrics.plugin.languages.recent.svg" />
+  <img width="49.5%" src="https://github.com/minhtran241/minhtran241/blob/output/metrics.plugin.notable.svg" />
+  <img width="49.5%" src="https://github.com/minhtran241/minhtran241/blob/output/metrics.plugin.languages.recent.svg" />
 
   </a>
 </p>
 
 <p align="left">
   <a href="https://github.com/minhtran241">
-  <img width="49.5%" src="https://raw.githubusercontent.com/minhtran241/minhtran241/61cc50d5745e97394888157794d5787961cc4ff7/metrics.plugin.repositories.pinned.svg" />
-  <img width="49.5%" src="https://raw.githubusercontent.com/minhtran241/minhtran241/61cc50d5745e97394888157794d5787961cc4ff7/metrics.plugin.habits.charts.svg" />
+  <img width="49.5%" src="https://github.com/minhtran241/minhtran241/blob/output/metrics.plugin.repositories.pinned.svg" />
+  <img width="49.5%" src="https://github.com/minhtran241/minhtran241/blob/output/metrics.plugin.habits.charts.svg" />
   </a>
 </p>
 
@@ -53,6 +54,9 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&color=EBEDF0)&nbsp;
 ![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=Redis&color=EBEDF0)&nbsp;
 ![SQlite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite&color=16572A)&nbsp;
+
+![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=selenium&color=EBEDF0)&nbsp;
+![Scrapy](https://img.shields.io/badge/-Scrapy-05122A?style=flat&logo=Scrapy&color=EBEDF0)&nbsp;
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5&color=EBEDF0)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6&color=EBEDF0)&nbsp;
