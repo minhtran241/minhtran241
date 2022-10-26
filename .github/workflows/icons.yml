@@ -17,7 +17,7 @@ jobs:
                   committer_branch: output
                   committer_message: 'update metrics'
                   filename: metrics.plugin.topics.svg
-                  token: NOT_NEEDED
+                  token: ${{ secrets.GITHUB_TOKEN }}
                   base: ''
                   plugin_topics: yes
                   plugin_topics_limit: 12
