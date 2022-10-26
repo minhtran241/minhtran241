@@ -31,7 +31,7 @@
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go&color=EBEDF0)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&color=EBEDF0)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&color=EBEDF0)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&color=EBEDF0)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&color=16572A)&nbsp;
 ![Scala](https://img.shields.io/badge/-Scala-05122A?style=flat&logo=Scala&color=16572A)&nbsp;
 
 ![Nodejs](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=Node.js&color=EBEDF0)&nbsp;
@@ -56,7 +56,7 @@
 ![SQlite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite&color=16572A)&nbsp;
 
 ![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=selenium&color=EBEDF0)&nbsp;
-![Scrapy](https://img.shields.io/badge/-Scrapy-05122A?style=flat&logo=Scrapy&color=EBEDF0)&nbsp;
+![Scrapy](https://img.shields.io/badge/-Scrapy-05122A?style=flat&logo=Scrapy&color=16572A)&nbsp;
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5&color=EBEDF0)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6&color=EBEDF0)&nbsp;
