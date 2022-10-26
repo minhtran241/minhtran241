@@ -12,6 +12,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&color=EBEDF0)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&color=EBEDF0)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&color=EBEDF0)&nbsp;
+![Scala](https://img.shields.io/badge/-Scala-05122A?style=flat&logo=Scala&color=16572A)&nbsp;
 
 ![Nodejs](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=Node.js&color=EBEDF0)&nbsp;
 ![Fastify](https://img.shields.io/badge/-Fastify-05122A?style=flat&logo=fastify&color=16572A)&nbsp;
@@ -70,7 +71,7 @@
 ![JetBrain](https://img.shields.io/badge/-JetBrains-05122A?style=flat&logo=jetbrains&color=16572A)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman&color=EBEDF0)&nbsp;
 
-## 👨🏻‍💻&nbsp;Coding Metrics 
+## 👨🏻‍💻&nbsp;Coding Metrics
 
 <p align="left">
   <a href="https://github.com/minhtran241">
@@ -84,7 +85,6 @@
   <img width="49.5%" src="https://raw.githubusercontent.com/minhtran241/minhtran241/e6d4e0b9a47a389ee865a4b9cb15b275129aee6b/metrics.plugin.languages.recent.svg" />
   </a>
 </p>
-
 
 ## 🔗 &nbsp;Contact Info
 
