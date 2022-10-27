@@ -1,7 +1,8 @@
 name: isocalendar
 on:
     # Schedule updates (every 6 hours)
-    schedule: [{ cron: '0 */8 * * *' }]
+    schedule:
+        - cron: '0 */8 * * *'
     # Lines below let you run workflow manually and on each commit
     workflow_dispatch:
     push: { branches: ['output'] }
