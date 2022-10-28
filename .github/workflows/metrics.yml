@@ -18,7 +18,8 @@ jobs:
                   output_action: commit
                   committer_branch: output
                   committer_message: 'update notable'
-                  filename: metrics.plugin.notable.svg
+                  github_user_name: minhtran241
+                  svg_out_path: dist/metrics.plugin.notable.svg
                   token: ${{ secrets.GITHUB_TOKEN }}
                   base: ''
                   plugin_notable: yes
@@ -32,7 +33,8 @@ jobs:
                   output_action: commit
                   committer_branch: output
                   committer_message: 'update isocalendar'
-                  filename: metrics.plugin.isocalendar.halfyear.svg
+                  github_user_name: minhtran241
+                  svg_out_path: dist/metrics.plugin.isocalendar.halfyear.svg
                   base: ''
                   plugin_isocalendar: yes
                   plugin_isocalendar_duration: half-year
@@ -44,7 +46,8 @@ jobs:
                   output_action: commit
                   committer_branch: output
                   committer_message: 'update classics'
-                  filename: metrics.classic.svg
+                  github_user_name: minhtran241
+                  svg_out_path: dist/metrics.classic.svg
                   token: ${{ secrets.GITHUB_TOKEN }}
                   base: header, repositories
                   plugin_lines: yes
@@ -55,7 +58,8 @@ jobs:
                   output_action: commit
                   committer_branch: output
                   committer_message: 'update recent languages'
-                  filename: metrics.plugin.languages.recent.svg
+                  github_user_name: minhtran241
+                  svg_out_path: dist/metrics.plugin.languages.recent.svg
                   token: ${{ secrets.GITHUB_TOKEN }}
                   base: ''
                   plugin_languages: yes
@@ -72,7 +76,8 @@ jobs:
                   output_action: commit
                   committer_branch: output
                   committer_message: 'update pinned repos'
-                  filename: metrics.plugin.repositories.pinned.svg
+                  github_user_name: minhtran241
+                  svg_out_path: dist/metrics.plugin.repositories.pinned.svg
                   token: ${{ secrets.GITHUB_TOKEN }}
                   base: ''
                   plugin_repositories: yes
@@ -84,7 +89,8 @@ jobs:
                   output_action: commit
                   committer_branch: output
                   committer_message: 'update habits charts'
-                  filename: metrics.plugin.habits.charts.svg
+                  github_user_name: minhtran241
+                  svg_out_path: dist/metrics.plugin.habits.charts.svg
                   token: ${{ secrets.GITHUB_TOKEN }}
                   base: ''
                   plugin_habits: yes
