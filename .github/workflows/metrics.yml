@@ -1,0 +1,93 @@
+name: Notable
+on:
+    # Schedule updates (every 6 hours)
+    schedule:
+        - cron: '0 */8 * * *'
+    # Lines below let you run workflow manually and on each commit
+    workflow_dispatch:
+    push: { branches: ['output'] }
+jobs:
+    github-metrics:
+        runs-on: ubuntu-latest
+        permissions:
+            contents: write
+        steps:
+            - name: generate notable
+              uses: lowlighter/metrics@v3.28
+              with:
+                  output_action: commit
+                  committer_branch: output
+                  committer_message: 'update metrics'
+                  filename: metrics.plugin.notable.svg
+                  token: ${{ secrets.GITHUB_TOKEN }}
+                  base: ''
+                  plugin_notable: yes
+                  plugin_notable_from: all
+                  plugin_notable_self: yes
+                  plugin_notable_types: commit
+
+            - name: generate isocalendar
+              uses: lowlighter/metrics@v3.28
+              with:
+                  output_action: commit
+                  committer_branch: output
+                  committer_message: 'update metrics'
+                  filename: metrics.plugin.isocalendar.halfyear.svg
+                  base: ''
+                  plugin_isocalendar: yes
+                  plugin_isocalendar_duration: half-year
+                  token: ${{ secrets.GITHUB_TOKEN }}
+
+            - name: generate classics
+              uses: lowlighter/metrics@latest
+              with:
+                  output_action: commit
+                  committer_branch: output
+                  committer_message: 'update metrics'
+                  filename: metrics.classic.svg
+                  token: ${{ secrets.GITHUB_TOKEN }}
+                  base: header, repositories
+                  plugin_lines: yes
+
+            - name: generate recent languages
+              uses: lowlighter/metrics@latest
+              with:
+                  output_action: commit
+                  committer_branch: output
+                  committer_message: 'update metrics'
+                  filename: metrics.plugin.languages.recent.svg
+                  token: ${{ secrets.GITHUB_TOKEN }}
+                  base: ''
+                  plugin_languages: yes
+                  plugin_languages_ignored: >-
+                      html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
+                      gnuplot
+                  plugin_languages_sections: recently-used
+                  plugin_languages_details: bytes-size, percentage
+                  plugin_languages_limit: 4
+
+            - name: generate pinned repos
+              uses: lowlighter/metrics@latest
+              with:
+                  output_action: commit
+                  committer_branch: output
+                  committer_message: 'update metrics'
+                  filename: metrics.plugin.repositories.pinned.svg
+                  token: ${{ secrets.GITHUB_TOKEN }}
+                  base: ''
+                  plugin_repositories: yes
+                  plugin_repositories_pinned: 4
+
+            - name: generate habits graph
+              uses: lowlighter/metrics@latest
+              with:
+                  output_action: commit
+                  committer_branch: output
+                  committer_message: 'update metrics'
+                  filename: metrics.plugin.habits.charts.svg
+                  token: ${{ secrets.GITHUB_TOKEN }}
+                  base: ''
+                  plugin_habits: yes
+                  plugin_habits_facts: no
+                  plugin_habits_charts: yes
+                  config_timezone: America/Detroit
