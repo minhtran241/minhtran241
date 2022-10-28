@@ -1,18 +1,16 @@
 name: Metrics
 on:
     # Schedule updates (every 6 hours)
-    schedule:
-        - cron: '0 */8 * * *'
+    schedule: [{ cron: '0 16 * * *' }]
     # Lines below let you run workflow manually and on each commit
     workflow_dispatch:
     push: { branches: ['output'] }
 jobs:
-    github-metrics:
+    metrics:
         runs-on: ubuntu-latest
-        permissions:
-            contents: write
         steps:
             - name: generate notable
+              if: ${{ success() || failure() }}
               uses: lowlighter/metrics@v3.28
               with:
                   output_action: commit
@@ -27,6 +25,7 @@ jobs:
                   plugin_notable_types: commit
 
             - name: generate isocalendar
+              if: ${{ success() || failure() }}
               uses: lowlighter/metrics@v3.28
               with:
                   output_action: commit
@@ -39,6 +38,7 @@ jobs:
                   token: ${{ secrets.GITHUB_TOKEN }}
 
             - name: generate classics
+              if: ${{ success() || failure() }}
               uses: lowlighter/metrics@latest
               with:
                   output_action: commit
@@ -50,6 +50,7 @@ jobs:
                   plugin_lines: yes
 
             - name: generate recent languages
+              if: ${{ success() || failure() }}
               uses: lowlighter/metrics@latest
               with:
                   output_action: commit
@@ -67,6 +68,7 @@ jobs:
                   plugin_languages_limit: 4
 
             - name: generate pinned repos
+              if: ${{ success() || failure() }}
               uses: lowlighter/metrics@latest
               with:
                   output_action: commit
@@ -79,6 +81,7 @@ jobs:
                   plugin_repositories_pinned: 4
 
             - name: generate habits charts
+              if: ${{ success() || failure() }}
               uses: lowlighter/metrics@latest
               with:
                   output_action: commit
