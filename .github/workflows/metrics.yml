@@ -1,4 +1,4 @@
-name: Notable
+name: Metrics
 on:
     # Schedule updates (every 6 hours)
     schedule:

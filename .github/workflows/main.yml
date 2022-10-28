@@ -1,4 +1,4 @@
-name: Metrics
+name: Metrics Auto Gen
 on:
     # Schedule updates (every 6 hours)
     schedule:
