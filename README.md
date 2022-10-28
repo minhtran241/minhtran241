@@ -37,7 +37,7 @@
 ![Nodejs](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=Node.js&color=EBEDF0)&nbsp;
 ![Fastify](https://img.shields.io/badge/-Fastify-05122A?style=flat&logo=fastify&color=16572A)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express&color=16572A)&nbsp;
-![Gin](https://img.shields.io/badge/-Go-Gin-05122A?style=flat&logo=gin&color=16572A)&nbsp;
+![Gin](https://img.shields.io/badge/-Gin-05122A?style=flat&logo=gin&color=16572A)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask&color=16572A)&nbsp;
 ![SpringBoot](https://img.shields.io/badge/-Springboot-05122A?style=flat&logo=Springboot&color=EBEDF0)&nbsp;
 ![Quarkus](https://img.shields.io/badge/-Quarkus-05122A?style=flat&logo=Quarkus&color=EBEDF0)&nbsp;
