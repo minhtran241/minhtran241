@@ -17,7 +17,7 @@ jobs:
               with:
                   output_action: commit
                   committer_branch: output
-                  committer_message: 'update metrics'
+                  committer_message: 'update notable'
                   filename: metrics.plugin.notable.svg
                   token: ${{ secrets.GITHUB_TOKEN }}
                   base: ''
@@ -31,7 +31,7 @@ jobs:
               with:
                   output_action: commit
                   committer_branch: output
-                  committer_message: 'update metrics'
+                  committer_message: 'update isocalendar'
                   filename: metrics.plugin.isocalendar.halfyear.svg
                   base: ''
                   plugin_isocalendar: yes
@@ -43,7 +43,7 @@ jobs:
               with:
                   output_action: commit
                   committer_branch: output
-                  committer_message: 'update metrics'
+                  committer_message: 'update classics'
                   filename: metrics.classic.svg
                   token: ${{ secrets.GITHUB_TOKEN }}
                   base: header, repositories
@@ -54,7 +54,7 @@ jobs:
               with:
                   output_action: commit
                   committer_branch: output
-                  committer_message: 'update metrics'
+                  committer_message: 'update recent languages'
                   filename: metrics.plugin.languages.recent.svg
                   token: ${{ secrets.GITHUB_TOKEN }}
                   base: ''
@@ -71,19 +71,19 @@ jobs:
               with:
                   output_action: commit
                   committer_branch: output
-                  committer_message: 'update metrics'
+                  committer_message: 'update pinned repos'
                   filename: metrics.plugin.repositories.pinned.svg
                   token: ${{ secrets.GITHUB_TOKEN }}
                   base: ''
                   plugin_repositories: yes
                   plugin_repositories_pinned: 4
 
-            - name: generate habits graph
+            - name: generate habits charts
               uses: lowlighter/metrics@latest
               with:
                   output_action: commit
                   committer_branch: output
-                  committer_message: 'update metrics'
+                  committer_message: 'update habits charts'
                   filename: metrics.plugin.habits.charts.svg
                   token: ${{ secrets.GITHUB_TOKEN }}
                   base: ''
