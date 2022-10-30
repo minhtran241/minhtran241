@@ -7,22 +7,22 @@
 <p align="left">
   <a href="https://github.com/minhtran241">
 
-  <img width="49.5%" src="https://raw.githubusercontent.com/minhtran241/minhtran241/e14624a8e105322b55ef954f9acd44a988688953/metrics.classic.svg" />
-  <img width="49.5%" src="https://raw.githubusercontent.com/minhtran241/minhtran241/e14624a8e105322b55ef954f9acd44a988688953/metrics.plugin.isocalendar.halfyear.svg" />
+  <img width="49.5%" src="https://github.com/minhtran241/minhtran241/blob/output/metrics.classic.svg" />
+  <img width="49.5%" src="https://github.com/minhtran241/minhtran241/blob/output/metrics.plugin.isocalendar.halfyear.svg" />
   </a>
 </p>
 <p align="left">
   <a href="https://github.com/minhtran241">
-  <img width="49.5%" src="https://raw.githubusercontent.com/minhtran241/minhtran241/e14624a8e105322b55ef954f9acd44a988688953/metrics.plugin.notable.svg" />
-  <img width="49.5%" src="https://raw.githubusercontent.com/minhtran241/minhtran241/e14624a8e105322b55ef954f9acd44a988688953/metrics.plugin.languages.recent.svg" />
+  <img width="49.5%" src="https://github.com/minhtran241/minhtran241/blob/output/metrics.plugin.notable.svg" />
+  <img width="49.5%" src="https://github.com/minhtran241/minhtran241/blob/output/metrics.plugin.languages.recent.svg" />
 
   </a>
 </p>
 
 <p align="left">
   <a href="https://github.com/minhtran241">
-  <img width="49.5%" src="https://raw.githubusercontent.com/minhtran241/minhtran241/e14624a8e105322b55ef954f9acd44a988688953/metrics.plugin.repositories.pinned.svg" />
-  <img width="49.5%" src="https://raw.githubusercontent.com/minhtran241/minhtran241/e14624a8e105322b55ef954f9acd44a988688953/github-metrics.svg" />
+  <img width="49.5%" src="https://github.com/minhtran241/minhtran241/blob/output/metrics.plugin.repositories.pinned.svg" />
+  <img width="49.5%" src="https://github.com/minhtran241/minhtran241/blob/output/metrics.plugin.habits.charts.svg" />
   </a>
 </p>
 
