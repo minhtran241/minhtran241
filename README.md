@@ -1,22 +1,14 @@
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Kanit&center=true&vCenter=true&duration3000&color=40C463&size=40&height=100&width=800&lines=I'm+Minh+Tran;Backend+Developer;Data+Engineer;GVSU+CIS+Student;Welcome+to+my+profile!">
-</p>
+<!-- <p align="center"> -->
+<!-- <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&center=true&vCenter=true&duration3000&color=40C463&size=40&height=100&width=800&lines=I'm+Minh+Tran;Backend+Developer;Data+Engineer;GVSU+CIS+Student;Welcome+to+my+profile!">
+</p> -->
 
-<hr style="width:100%;text-align:left;margin-left:0;">
+<!-- <hr style="width:100%;text-align:left;margin-left:0;"> -->
 
-<p align="left">
-  <a href="https://github.com/minhtran241">
+## 👋 Hi, I'm Minh Tran
 
-  <img width="49.5%" src="https://github.com/minhtran241/minhtran241/blob/output/metrics.classic.svg" />
-  <img width="49.5%" src="https://github.com/minhtran241/minhtran241/blob/output/metrics.plugin.isocalendar.halfyear.svg" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://github.com/minhtran241">
-  <img width="49.5%" src="https://github.com/minhtran241/minhtran241/blob/output/metrics.plugin.notable.svg" />
-  <img width="49.5%" src="https://github.com/minhtran241/minhtran241/blob/output/metrics.plugin.languages.recent.svg" />
-
-  </a>
+<p>
+    A freelance developer from 🇻🇳 Vietnam, now based in 🇺🇸 Allendale, US.</br>
+    Backend, cloud, web & mobile solutions.
 </p>
 
 #### Currently, I'm
@@ -102,7 +94,24 @@
 <a href="https://github.com/minhtran241"><img src="https://img.shields.io/badge/-minhtran241-3423A6?style=for-the-badge&logo=Github&logoColor=black&color=EBEDF0"/></a>
 </p>
 
-![Snake animation](https://github.com/minhtran241/minhtran241/blob/output2/github-contribution-grid-snake.svg)
+### My Github metrics
+
+<p align="left">
+  <a href="https://github.com/minhtran241">
+
+  <img width="49.5%" src="https://github.com/minhtran241/minhtran241/blob/output/metrics.classic.svg" />
+  <img width="49.5%" src="https://github.com/minhtran241/minhtran241/blob/output/metrics.plugin.isocalendar.halfyear.svg" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://github.com/minhtran241">
+  <img width="49.5%" src="https://github.com/minhtran241/minhtran241/blob/output/metrics.plugin.notable.svg" />
+  <img width="49.5%" src="https://github.com/minhtran241/minhtran241/blob/output/metrics.plugin.languages.recent.svg" />
+
+  </a>
+</p>
+
+<!-- ![Snake animation](https://github.com/minhtran241/minhtran241/blob/output2/github-contribution-grid-snake.svg) -->
 
 ---
 
@@ -110,4 +119,4 @@ Credit: [Minh Tran](https://github.com/minhtran241)
 
 More information: [Insights](https://metrics.lecoq.io/insights/minhtran241)
 
-Last Edited on: 10/29/2022
+Last Edited on: 10/30/2022
