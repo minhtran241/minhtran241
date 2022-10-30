@@ -22,7 +22,7 @@
 #### Currently, I'm
 
 -   GVSU Computer and Information Science
--   Backend, developed, deployed
+-   Backend, system design freelancer
 -   Exploring Data Engineering
 -   Let's talk about your next project to see how I could help; contracting positions considered too
 
