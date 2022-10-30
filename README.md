@@ -110,6 +110,13 @@
 
   </a>
 </p>
+<p align="left">
+  <a href="https://github.com/minhtran241">
+  <img width="49.5%" src="https://github.com/minhtran241/minhtran241/blob/output/metrics.plugin.repositories.pinned.svg" />
+  <img width="49.5%" src="https://github.com/minhtran241/minhtran241/blob/output/metrics.plugin.habits.charts.svg" />
+
+  </a>
+</p>
 
 <!-- ![Snake animation](https://github.com/minhtran241/minhtran241/blob/output2/github-contribution-grid-snake.svg) -->
 
