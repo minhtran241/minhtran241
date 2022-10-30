@@ -1,6 +1,5 @@
 name: Metrics
 on:
-    # Schedule updates (every 6 hours)
     schedule: [{ cron: '0 16 * * *' }]
     # Lines below let you run workflow manually and on each commit
     workflow_dispatch:
@@ -16,8 +15,10 @@ jobs:
                   output_action: commit
                   committer_branch: output
                   committer_message: 'update notable'
+                  target_branch: output
                   filename: metrics.plugin.notable.svg
                   token: ${{ secrets.GITHUB_TOKEN }}
+                  user: minhtran241
                   base: ''
                   plugin_notable: yes
                   plugin_notable_from: all
@@ -31,11 +32,13 @@ jobs:
                   output_action: commit
                   committer_branch: output
                   committer_message: 'update isocalendar'
+                  target_branch: output
                   filename: metrics.plugin.isocalendar.halfyear.svg
                   base: ''
                   plugin_isocalendar: yes
                   plugin_isocalendar_duration: half-year
                   token: ${{ secrets.GITHUB_TOKEN }}
+                  user: minhtran241
 
             - name: generate classics
               if: ${{ success() || failure() }}
@@ -44,8 +47,10 @@ jobs:
                   output_action: commit
                   committer_branch: output
                   committer_message: 'update classics'
+                  target_branch: output
                   filename: metrics.classic.svg
                   token: ${{ secrets.GITHUB_TOKEN }}
+                  user: minhtran241
                   base: header, repositories
                   plugin_lines: yes
 
@@ -56,8 +61,10 @@ jobs:
                   output_action: commit
                   committer_branch: output
                   committer_message: 'update recent languages'
+                  target_branch: output
                   filename: metrics.plugin.languages.recent.svg
                   token: ${{ secrets.GITHUB_TOKEN }}
+                  user: minhtran241
                   base: ''
                   plugin_languages: yes
                   plugin_languages_ignored: >-
@@ -74,8 +81,10 @@ jobs:
                   output_action: commit
                   committer_branch: output
                   committer_message: 'update pinned repos'
+                  target_branch: output
                   filename: metrics.plugin.repositories.pinned.svg
                   token: ${{ secrets.GITHUB_TOKEN }}
+                  user: minhtran241
                   base: ''
                   plugin_repositories: yes
                   plugin_repositories_pinned: 4
@@ -87,8 +96,10 @@ jobs:
                   output_action: commit
                   committer_branch: output
                   committer_message: 'update habits charts'
+                  target_branch: output
                   filename: metrics.plugin.habits.charts.svg
                   token: ${{ secrets.GITHUB_TOKEN }}
+                  user: minhtran241
                   base: ''
                   plugin_habits: yes
                   plugin_habits_facts: no
