@@ -1,6 +1,6 @@
 name: Metrics
 on:
-    schedule: [{ cron: '0 16 * * *' }]
+    schedule: [{ cron: '* * * * *' }]
     # Lines below let you run workflow manually and on each commit
     workflow_dispatch:
     push: { branches: ['output'] }
