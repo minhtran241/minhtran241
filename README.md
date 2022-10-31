@@ -13,16 +13,16 @@
 
 #### Currently, I'm
 
--   GVSU Computer and Information Science
--   Backend, system design freelancer
--   Exploring Data Engineering
--   Let's talk about your next project to see how I could help; contracting positions considered too
+-   in Computer and Information Science major at Grand Valley State university
+-   backend, system design freelancer
+-   exploring data processing, data engineering
+-   let's talk about your next project to see how I could help; contracting positions considered too
 
 **Feel free to get in touch to talk about your next project and how I can help you.**
 
 #### I love to work with
 
-<p align="center">
+<div align="center">
 
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat-square&logo=go&color=EBEDF0)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript&color=EBEDF0)&nbsp;
@@ -83,7 +83,7 @@
 ![JetBrain](https://img.shields.io/badge/-JetBrains-05122A?style=flat-square&logo=jetbrains&color=16572A)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat-square&logo=postman&color=EBEDF0)&nbsp;
 
-</p>
+</div>
 
 #### Connect with me on
 
