@@ -22,8 +22,8 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="261.92842489172557" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="261.92842489172557" y="0" width="198.07157510827446" height="8" fill="#c22d40"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="260.8107494666122" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="260.8107494666122" y="0" width="199.18925053338782" height="8" fill="#c22d40"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -36,7 +36,7 @@
                             </div>
                             <small>
                                 <div>24.9 kB</div>
-                                <div>56.94%</div>
+                                <div>56.7%</div>
                             </small>
                         </div>
                     </section>
@@ -49,8 +49,8 @@
                                 Scala
                             </div>
                             <small>
-                                <div>18.8 kB</div>
-                                <div>43.06%</div>
+                                <div>19 kB</div>
+                                <div>43.3%</div>
                             </small>
                         </div>
                     </section>
