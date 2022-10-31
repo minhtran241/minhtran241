@@ -30,7 +30,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)&nbsp;
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white)&nbsp;
 ![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)&nbsp;
-![Fastify](https://img.shields.io/badge/-Fastify-05122A?style=flat-square&logo=fastify&color=white&logoColor=black)&nbsp;
+![Fastify](https://img.shields.io/badge/-fastify.js-05122A?style=flat-square&logo=fastify&color=white&logoColor=black)&nbsp;
 ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)&nbsp;
 ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat-square&logo=go&logoColor=white)&nbsp;
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)&nbsp;
@@ -48,11 +48,11 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)&nbsp;
 ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white)&nbsp;
 ![SQlite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)&nbsp;
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat-square&logo=selenium&logoColor=white)&nbsp;
-![Scrapy](https://img.shields.io/badge/-scrapy-%43B02A?style=flat-square&logo=scrapy&logoColor=white)&nbsp;
+![Selenium](https://img.shields.io/badge/-Selenium-%43B02A?style=flat-square&logo=selenium&logoColor=white)&nbsp;
+![Scrapy](https://img.shields.io/badge/-Scrapy-%43B02A?style=flat-square&logo=scrapy&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)&nbsp;
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)&nbsp;
 ![Yarn](https://img.shields.io/badge/Yarn-1287B1?style=flat-square&logo=yarn&logoColor=white)&nbsp;
 ![JWT](https://img.shields.io/badge/Json%20Web%20Tokens-323330?style=flat-square&logo=json-web-tokens&logoColor=pink)&nbsp;
@@ -61,10 +61,10 @@
 ![Lodash](https://img.shields.io/badge/-Lodash-05122A?style=flat-square&logo=lodash&color=blue&logoColor=white)&nbsp;
 ![Socket.io](https://img.shields.io/badge/-Socket.io-05122A?style=flat-square&logo=Socket.io&color=white&logoColor=black)&nbsp;
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat-square&logo=swagger&logoColor=white)&nbsp;
-![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat-square&logo=json&color=16572A)&nbsp;
+![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat-square&logo=json&color=white&logoColor=black)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/Github-%23121011.svg?style=flat-square&logo=github&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)&nbsp;
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=Twilio&logoColor=white)&nbsp;
 ![Mailgun](https://img.shields.io/badge/Mailgun-F22F46?style=flat-square&logo=mailgun&logoColor=white)&nbsp;
