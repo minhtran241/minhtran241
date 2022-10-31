@@ -94,7 +94,7 @@
 <a href="https://github.com/minhtran241"><img src="https://img.shields.io/badge/-minhtran241-3423A6?style=flat-square&logo=Github&logoColor=black&color=EBEDF0"/></a>
 </p>
 
-### My Github metrics
+#### My Github metrics
 
 <p align="left">
   <a href="https://github.com/minhtran241">
