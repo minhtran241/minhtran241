@@ -4,7 +4,7 @@
 
 <!-- <hr style="width:100%;text-align:left;margin-left:0;"> -->
 
-## 👋 Hi, I'm Minh Tran
+## 👋🏻 Hi, I'm Minh Tran
 
 <p>
     A freelance developer from 🇻🇳 Vietnam, now based in 🇺🇸 Allendale, US.</br>
