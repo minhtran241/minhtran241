@@ -89,6 +89,7 @@
 
 <p align="center">
     <a href="mailto:trqminh24@gmail.com" target="blank"><img src="https://img.icons8.com/color/344/gmail--v1.png" alt="Gmail" title="Gmail" height="30"></a>
+    <a href="https://www.linkedin.com/in/minh-tran-12a3aa218/" target="blank"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="LinkedIn" title="LinkedIn" height="30"></a>
     <a href="https://www.instagram.com/minhtran.ig/" target="blank"><img src="https://img.icons8.com/color/344/instagram-new--v2.png" alt="Instagram" title="Instagram" height="30"></a>
     <a href="https://www.facebook.com/minhtran.venus.dev/" target="blank"><img src="https://img.icons8.com/fluency/344/facebook-new.png" alt="Facebook" title="Facebook" height="30"></a>
     <a href="https://github.com/minhtran241" target="blank"><img src="https://img.icons8.com/color/344/github--v1.png" alt="GitHub" title="GitHub" height="30"></a>
