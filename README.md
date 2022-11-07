@@ -33,6 +33,7 @@
 ![Fastify](https://img.shields.io/badge/-fastify.js-05122A?style=flat-square&logo=fastify&color=white&logoColor=black)&nbsp;
 ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)&nbsp;
 ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat-square&logo=go&logoColor=white)&nbsp;
+![Fiber](https://img.shields.io/badge/Fiber-00ADD8?style=flat-square&logo=go&logoColor=white)&nbsp;
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)&nbsp;
 ![SpringBoot](https://img.shields.io/badge/Springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white)&nbsp;
 ![Quarkus](https://img.shields.io/badge/Quarkus-07405E?style=flat-square&logo=quarkus&logoColor=white)&nbsp;
