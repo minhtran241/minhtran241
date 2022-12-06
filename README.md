@@ -13,10 +13,10 @@
 
 #### Currently, I'm
 
--   in Computer and Information Science major at Grand Valley State university
--   backend, system design freelancer
--   exploring data processing, data engineering
--   let's talk about your next project to see how I could help; contracting positions considered too
+- in Computer and Information Science major at Grand Valley State university
+- backend, system design freelancer
+- exploring data processing, data engineering
+- let's talk about your next project to see how I could help; contracting positions considered too
 
 **Feel free to get in touch to talk about your next project and how I can help you.**
 
@@ -49,6 +49,9 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)&nbsp;
 ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white)&nbsp;
 ![SQlite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)&nbsp;
+![Solidity](https://img.shields.io/badge/Solidity-white?style=flat-square&logo=solidity&logoColor=363636)&nbsp;
+![Web3.js](https://img.shields.io/badge/Web3.js-white?style=flat-square&logo=web3.js&logoColor=F16822)&nbsp;
+![Ethereum](https://img.shields.io/badge/Ethereum-white?style=flat-square&logo=ethereum&logoColor=3C3C3D)&nbsp;
 ![Selenium](https://img.shields.io/badge/-Selenium-%43B02A?style=flat-square&logo=selenium&logoColor=white)&nbsp;
 ![Scrapy](https://img.shields.io/badge/-Scrapy-%43B02A?style=flat-square&logo=scrapy&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)&nbsp;
