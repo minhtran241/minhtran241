@@ -4,23 +4,24 @@
 
 <!-- <hr style="width:100%;text-align:left;margin-left:0;"> -->
 
-## 👋🏻 Hi, I'm Minh Tran
+# 👋🏻 Hi, I'm Minh Tran
 
-<p>
-    A freelance developer from 🇻🇳 Vietnam, now based in 🇺🇸 Allendale, US.</br>
-    Backend, cloud, web & mobile solutions.
-</p>
+## About me
 
-#### Currently, I'm
+**Backend Developer** with a background in Computer and Information Science, I am passionate about building **high-performance backend and database architectures**. With experience in designing and implementing backend and database systems, I am well-versed in technologies such as *JavaScript*, *Python*, *Golang* modern frameworks; *messages queue*, and *database technologies*, which I have used to develop and optimize architectures and systems. I have a track record of *collaborating with cross-functional teams* to identify and solve problems while **ensuring data quality and integrity**. I am well-versed in the *Scrum methodology* and have experience in working with remote teams. I am a skilled problem solver who is always looking for new and innovative solutions to complex challenges. I am excited about the opportunity to work and contribute my expertise to a dynamic and fast-paced team.
 
-- in Computer and Information Science major at Grand Valley State university
-- backend, system design freelancer
-- exploring data processing, data engineering
-- let's talk about your next project to see how I could help; contracting positions considered too
+Please visit my [website](https://minhtran.netlify.app/) to explore more about myself and my personal projects.
+
+## Currently, I'm
+
+- In Computer and Information Science major at Grand Valley State university.
+- Backend, system design freelancer.
+- Exploring data processing, data engineering.
+- Let's talk about your next project to see how I could help; contracting positions considered too.
 
 **Feel free to get in touch to talk about your next project and how I can help you.**
 
-#### I love to work with
+## I love to work with
 
 <div align="center">
 
@@ -35,6 +36,7 @@
 ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat-square&logo=go&logoColor=white)&nbsp;
 ![Fiber](https://img.shields.io/badge/Fiber-00ADD8?style=flat-square&logo=go&logoColor=white)&nbsp;
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)&nbsp;
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/Springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white)&nbsp;
 ![Quarkus](https://img.shields.io/badge/Quarkus-07405E?style=flat-square&logo=quarkus&logoColor=white)&nbsp;
 ![Vaadin](https://img.shields.io/badge/-Vaadin-05122A?style=flat-square&logo=vaadin&color=46a2f1&logoColor=white)&nbsp;
@@ -99,7 +101,7 @@
     <a href="https://github.com/minhtran241" target="blank"><img src="https://img.icons8.com/color/344/github--v1.png" alt="GitHub" title="GitHub" height="30"></a>
 </p>
 
-#### My Github metrics
+## My Github metrics
 
 <p align="left">
   <a href="https://github.com/minhtran241">
@@ -131,4 +133,4 @@ Credit: [Minh Tran](https://github.com/minhtran241)
 
 More information: [Insights](https://metrics.lecoq.io/insights/minhtran241)
 
-Last Edited on: 10/30/2022
+Last Edited on: 02/20/2023
