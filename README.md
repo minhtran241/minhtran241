@@ -12,7 +12,7 @@
 
 With experience in designing and implementing backend and database systems, I am well-versed in technologies such as *JavaScript*, *Python*, *Golang* modern frameworks; *messages queue*, and *database technologies*, which I have used to develop and optimize architectures and systems.
 
-- I have a track record of *collaborating with cross-functional teams* to identify and solve problems while **ensuring data quality and integrity**.
+- I have a track record of *collaborating with cross-functional teams* to identify and solve problems while *ensuring data quality and integrity*.
 - I am well-versed in the *Scrum methodology* and have experience in working with remote teams.
 - I am a skilled problem solver who is always looking for new and innovative solutions to complex challenges.
 - I am excited about the opportunity to work and contribute my expertise to a dynamic and fast-paced team.
