@@ -8,33 +8,16 @@
 
 ## About me
 
-<p>
-					<strong style="color: #1fc1ad;">Backend Developer</strong> with a background in Computer and Information Science, I am passionate
-					about building
-					high-performance backend and database architectures.<br><br>With experience in designing and implementing
-					backend and
-					database systems, I am well-versed in technologies such as <span style="color: #1fc1ad;">JavaScript</span>, <span style="color: #1fc1ad;">Python</span>, <span style="color: #1fc1ad;">Golang</span> modern frameworks;
-					<span style="color: #1fc1ad;">messages queue</span>, and <span style="color: #1fc1ad;">database technologies</span>, which I have used to develop and optimize architectures and
-					systems.
-				</p>
-				<ul>
-					<li> I have a track record of collaborating with cross-functional
-						teams to identify and solve problems
-						while ensuring data quality and integrity.</li>
-					<li>I am well-versed in the Scrum methodology and have experience
-						in
-						working with remote teams.</li>
-					<li> I am a skilled problem solver who is always looking for new
-						and innovative
-						solutions to complex challenges.</li>
-					<li> I am excited about the opportunity to work and contribute my
-						expertise to a
-						dynamic and fast-paced team.</li>
-				</ul>
-				<p><i class="ion-information-circled" style="color: #1fc1ad;"></i> Please visit my <a href="https://minhtran.netlify.app/"
-						style="color: #1fc1ad;">website</a> to explore more
-					about myself and
-					my personal projects.</p>
+**Backend Developer** with a background in Computer and Information Science, I am passionate about building **high-performance backend and database architectures**. 
+
+With experience in designing and implementing backend and database systems, I am well-versed in technologies such as *JavaScript*, *Python*, *Golang* modern frameworks; *messages queue*, and *database technologies*, which I have used to develop and optimize architectures and systems.
+
+- I have a track record of *collaborating with cross-functional teams* to identify and solve problems while **ensuring data quality and integrity**.
+- I am well-versed in the *Scrum methodology* and have experience in working with remote teams.
+- I am a skilled problem solver who is always looking for new and innovative solutions to complex challenges.
+- I am excited about the opportunity to work and contribute my expertise to a dynamic and fast-paced team.
+
+Please visit my [website](https://minhtran.netlify.app/) to explore more about myself and my personal projects.
 
 ## Currently, I'm
 
