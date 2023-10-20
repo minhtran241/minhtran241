@@ -16,30 +16,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 87.9kb of code in 60 edited files across 26 commits over last 14 days</small>
+                <small>estimation from 98.2kb of code in 83 edited files across 50 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="420.5368091193969" height="8" fill="#F05138"/>
-                    <rect mask="url(#languages-bar)" x="420.5368091193969" y="0" width="39.463190880603115" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="260.45598094077235" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="260.45598094077235" y="0" width="199.54401905922765" height="8" fill="#F05138"/>
                 </svg>
                 <div class="row fill-width">
-                    <section>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#F05138" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                Swift
-                            </div>
-                            <small>
-                                <div>20.1 kB</div>
-                                <div>91.42%</div>
-                            </small>
-                        </div>
-                    </section>
                     <section>
                         <div class="field language details">
                             <div class="field">
@@ -49,8 +35,22 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>1.89 kB</div>
-                                <div>8.58%</div>
+                                <div>20.4 kB</div>
+                                <div>56.62%</div>
+                            </small>
+                        </div>
+                    </section>
+                    <section>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#F05138" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                Swift
+                            </div>
+                            <small>
+                                <div>15.6 kB</div>
+                                <div>43.38%</div>
                             </small>
                         </div>
                     </section>
