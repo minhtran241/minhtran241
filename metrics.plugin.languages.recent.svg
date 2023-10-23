@@ -16,14 +16,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 225kb of code in 251 edited files across 188 commits over last 8 days</small>
+                <small>estimation from 249kb of code in 270 edited files across 190 commits over last 9 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="432.7232140049928" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="432.7232140049928" y="0" width="27.2767859950072" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="400.5584432971088" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="400.5584432971088" y="0" width="59.44155670289116" height="8" fill="#F05138"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -36,7 +36,7 @@
                             </div>
                             <small>
                                 <div>149 kB</div>
-                                <div>94.07%</div>
+                                <div>87.08%</div>
                             </small>
                         </div>
                     </section>
@@ -49,8 +49,8 @@
                                 Swift
                             </div>
                             <small>
-                                <div>9.43 kB</div>
-                                <div>5.93%</div>
+                                <div>22.2 kB</div>
+                                <div>12.92%</div>
                             </small>
                         </div>
                     </section>
