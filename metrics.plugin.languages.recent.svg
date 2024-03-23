@@ -16,16 +16,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 193kb of code in 129 edited files across 49 commits over last 14 days</small>
+                <small>estimation from 153kb of code in 86 edited files across 37 commits over last 11 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="232.48190384872322" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="232.48190384872322" y="0" width="115.46185464919795" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="347.9437584979212" y="0" width="82.35654723075835" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="430.3003057286795" y="0" width="29.69969427132045" height="8" fill="#4B6C4B"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="266.94382326326405" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="266.94382326326405" y="0" width="152.80384427363407" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="419.7476675368981" y="0" width="39.30499360327845" height="8" fill="#4B6C4B"/>
+                    <rect mask="url(#languages-bar)" x="459.0526611401766" y="0" width="0.9473388598233881" height="8" fill="#3fb68b"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -37,20 +37,20 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>64.3 kB</div>
-                                <div>50.54%</div>
+                                <div>55.7 kB</div>
+                                <div>58.03%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#4B6C4B" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                TypeScript
+                                Yacc
                             </div>
                             <small>
-                                <div>22.7 kB</div>
-                                <div>17.9%</div>
+                                <div>8.21 kB</div>
+                                <div>8.54%</div>
                             </small>
                         </div>
                     </section>
@@ -64,19 +64,19 @@
                             </div>
                             <small>
                                 <div>31.9 kB</div>
-                                <div>25.1%</div>
+                                <div>33.22%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#4B6C4B" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#3fb68b" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Yacc
+                                Common Lisp
                             </div>
                             <small>
-                                <div>8.21 kB</div>
-                                <div>6.46%</div>
+                                <div>198 bytes</div>
+                                <div>0.21%</div>
                             </small>
                         </div>
                     </section>
