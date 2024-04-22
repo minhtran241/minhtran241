@@ -8,7 +8,7 @@
 
 ## About me
 
-**Backend Developer** with a background in Computer and Information Science, I am passionate about building **high-performance backend and database architectures**. 
+**Backend Developer** with a background in Computer and Information Science, I am passionate about building **high-performance backend and database architectures**.
 
 With experience in designing and implementing backend and database systems, I am well-versed in technologies such as *JavaScript*, *Python*, *Golang* modern frameworks; *messages queue*, and *database technologies*, which I have used to develop and optimize architectures and systems.
 
@@ -17,7 +17,7 @@ With experience in designing and implementing backend and database systems, I am
 - I am a skilled problem solver who is always looking for new and innovative solutions to complex challenges.
 - I am excited about the opportunity to work and contribute my expertise to a dynamic and fast-paced team.
 
-Please visit my [website](https://minhtran.netlify.app/) to explore more about myself and my personal projects.
+Please visit my [website](https://minhtran-nine.vercel.app) to explore more about myself and my personal projects.
 
 ## Currently, I'm
 
@@ -102,7 +102,7 @@ Please visit my [website](https://minhtran.netlify.app/) to explore more about m
 
 <p align="center">
     <a href="mailto:trqminh24@gmail.com" target="blank"><img src="https://img.icons8.com/color/344/gmail--v1.png" alt="Gmail" title="Gmail" height="30"></a>
-    <a href="https://www.linkedin.com/in/minh-tran-12a3aa218/" target="blank"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="LinkedIn" title="LinkedIn" height="30"></a>
+    <a href="https://www.linkedin.com/in/tranmiq/" target="blank"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="LinkedIn" title="LinkedIn" height="30"></a>
     <a href="https://www.instagram.com/minhtran.ig/" target="blank"><img src="https://img.icons8.com/color/344/instagram-new--v2.png" alt="Instagram" title="Instagram" height="30"></a>
     <a href="https://www.facebook.com/minhtran.venus.dev/" target="blank"><img src="https://img.icons8.com/fluency/344/facebook-new.png" alt="Facebook" title="Facebook" height="30"></a>
     <a href="https://github.com/minhtran241" target="blank"><img src="https://img.icons8.com/color/344/github--v1.png" alt="GitHub" title="GitHub" height="30"></a>
@@ -136,7 +136,7 @@ Please visit my [website](https://minhtran.netlify.app/) to explore more about m
 
 ---
 
-Credit: [Minh Tran](https://github.com/minhtran241)
+Credit: [Minh Tran](https://minhtran-nine.vercel.app)
 
 More information: [Insights](https://metrics.lecoq.io/insights/minhtran241)
 
