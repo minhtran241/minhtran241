@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="395" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="445" class="">
     <defs>
         <style/>
     </defs>
@@ -80,7 +80,7 @@
                                         <span>created Feb 13 2024</span>
                                     </div>
                                 </div>
-                                <div class="field description">🚀 A comprehensive toolkit designed to cater to the diverse needs of businesses and enterprises built with Next.js, Bun runtime, Elysia.js, and PostgreSQL.</div>
+                                <div class="field description">A comprehensive toolkit designed to cater to the diverse needs of businesses and enterprises built with Next.js, Bun runtime, Elysia.js, and PostgreSQL.</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -133,7 +133,7 @@
                                         <span>created Oct 12 2022</span>
                                     </div>
                                 </div>
-                                <div class="field description">A distributed architecture with multi-option of transporting data</div>
+                                <div class="field description">FlexiConnect Architecture is a distributed system designed with versatile data transport options, providing flexibility and efficiency in handling diverse data sources and destinations.</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -180,7 +180,7 @@
                                         <span>created Oct 02 2023</span>
                                     </div>
                                 </div>
-                                <div class="field description">Place to explore every courses and receive new course notifications from GV</div>
+                                <div class="field description">Place to explore every course and receive new course notifications from GVSU. Utilizing SwiftUI and Firebase, the app provides a seamless user experience with real-time updates.</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
