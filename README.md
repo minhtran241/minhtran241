@@ -10,21 +10,21 @@
 
 **Backend Developer** with a background in Computer and Information Science, I am passionate about building **high-performance backend and database architectures**.
 
-With experience in designing and implementing backend and database systems, I am well-versed in technologies such as *JavaScript*, *Python*, *Golang* modern frameworks; *messages queue*, and *database technologies*, which I have used to develop and optimize architectures and systems.
+With experience in designing and implementing backend and database systems, I am well-versed in technologies such as _JavaScript_, _Python_, _Golang_ modern frameworks; _messages queue_, and _database technologies_, which I have used to develop and optimize architectures and systems.
 
-- I have a track record of *collaborating with cross-functional teams* to identify and solve problems while *ensuring data quality and integrity*.
-- I am well-versed in the *Scrum methodology* and have experience in working with remote teams.
-- I am a skilled problem solver who is always looking for new and innovative solutions to complex challenges.
-- I am excited about the opportunity to work and contribute my expertise to a dynamic and fast-paced team.
+-   I have a track record of _collaborating with cross-functional teams_ to identify and solve problems while _ensuring data quality and integrity_.
+-   I am well-versed in the _Scrum methodology_ and have experience in working with remote teams.
+-   I am a skilled problem solver who is always looking for new and innovative solutions to complex challenges.
+-   I am excited about the opportunity to work and contribute my expertise to a dynamic and fast-paced team.
 
-Please visit my [website](https://minhtran-nine.vercel.app) to explore more about myself and my personal projects.
+Please visit my [website](https://tranmq.vercel.app) to explore more about myself and my personal projects.
 
 ## Currently, I'm
 
-- In Computer and Information Science major at Grand Valley State university.
-- Backend, system design freelancer.
-- Exploring data processing, data engineering.
-- Let's talk about your next project to see how I could help; contracting positions considered too.
+-   In Computer and Information Science major at Grand Valley State university.
+-   Backend, system design freelancer.
+-   Exploring data processing, data engineering.
+-   Let's talk about your next project to see how I could help; contracting positions considered too.
 
 **Feel free to get in touch to talk about your next project and how I can help you.**
 
